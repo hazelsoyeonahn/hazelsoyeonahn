@@ -1,0 +1,5 @@
+This algorithm is made by my self Hazel Ahn. For this project, I have implements for a week of time.
+
+	1.	Brute-Force-Approach that finds all possible combination of edge lines. Then remove the duplicates. 
+	2.	Greedy Approach that uses existing Brute Force Approach to find all possible combination of edge lines then print out the minimum total lengths of edge lines. 
+	3.	Exact Approach that check whether the minimum total length of edge lines is accurate by using divide and conquer technique with exacting greedy class.
